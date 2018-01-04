@@ -3,8 +3,6 @@ Solution - Write a function make_dict_lists(length) that returns a dictionary wh
 corresponding values are lists of zeros with length matching the key
 """
 
-
-# Add code here
 def make_dict_lists(length):
     """
     Given an integer length, return a dictionary whose keys
